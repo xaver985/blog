@@ -1,0 +1,3 @@
+[submodule "next"]
+	path = next
+	url = /etc/blog/themes/next
