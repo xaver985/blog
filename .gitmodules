@@ -1,3 +1,3 @@
-[submodule "next"]
-	path = /etc/blog/themes/next
-	url = /etc/blog/themes/next
+[submodule "themes/next"]
+	path = /etc/blog/next
+        url = git://github.com/theme-next/hexo-theme-next
